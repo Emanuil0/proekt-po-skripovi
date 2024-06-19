@@ -1,1 +1,2 @@
-# proekt-po-skripovi
+# Proekt po skriptovi ezici
+Crypto predictor
